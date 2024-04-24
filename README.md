@@ -1,3 +1,1 @@
-# Mapping file
-
-## This is a test.
+# Map app
